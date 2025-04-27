@@ -1,0 +1,20 @@
+# Crie um README.md para o repositório
+echo "# blog.needl.ai" >> README.md
+
+# Inicialize o repositório git
+git init
+
+# Adicione o arquivo README.md ao repositório
+git add README.md
+
+# Faça um commit inicial
+git commit -m "first commit"
+
+# Crie a branch principal
+git branch -M main
+
+# Adicione o repositório remoto do GitHub
+git remote add origin https://github.com/Caprio-ai/blog.needl.ai.git
+
+# Envie o commit para o GitHub
+git push -u origin main
