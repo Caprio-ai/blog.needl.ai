@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Subdomain Takeover PoC</title>
+</head>
+<body style="text-align:center; font-family:sans-serif; background:#f2f2f2; padding-top:50px;">
+  <h1>Subdomain Takeover - PoC</h1>
+  <p>This subdomain is under my control to demonstrate a vulnerability.</p>
+  <img src="needl-logo.png" alt="Needl.ai logo takeover PoC" width="200">
+  <p>Reported responsibly by @iltrevigiano</p>
+</body>
+</html>
